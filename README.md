@@ -22,6 +22,9 @@ For example, run the following shell prompt (not in a python interpreter):
 $ git clone https://github.com/gistvision/mldl_ca2.git
 ```
 
+### Download dataset
+Download the dataset from this link and unzip in the folder of your code. `YOUR_CODE_FOLDER/data/` folder should have this data.
+
 ### Installing prerequisites
 The prerequisites usually refer to the necessary libraries that your code can run with. They are also known as `dependency`. 
 To install the prerequisites, run the following shell prompt (not in a python interpreter):
@@ -30,7 +33,7 @@ $ pip install -r requirements.txt
 ```
 
 ## What to do
-You'll find what to do in `hw2.pdf` in detail.
+You'll find what to do in `ca2.pdf` in detail.
 
 ## Files you'll edit:
 - `python/nn.py`
@@ -39,7 +42,7 @@ You'll find what to do in `hw2.pdf` in detail.
 - `python/q3.py` for Q3
 
 ## Report
-Please write your answers for 'Writeup' items in `hw2.pdf` in `report.pdf`.
+Please write your answers for 'Writeup' items in `ca2.pdf` in `report.pdf`.
 
 ---
 ### Note
