@@ -23,7 +23,7 @@ $ git clone https://github.com/gistvision/mldl_ca2.git
 ```
 
 ### Download dataset
-Download the dataset from this link and unzip in the folder of your code. `YOUR_CODE_FOLDER/data/` folder should have this data.
+Download the dataset from [this link](https://drive.google.com/file/d/12e7VzlPZQ6yql_w3I5iuAs7oO6OGeKI1/view?usp=sharing) and unzip in the folder of your code. `YOUR_CODE_FOLDER/data/` folder should have this data.
 
 ### Installing prerequisites
 The prerequisites usually refer to the necessary libraries that your code can run with. They are also known as `dependency`. 
